@@ -1,0 +1,20 @@
+ALLOW THIS THIS
+ALLOW com.autonavi.minimap com.autonavi.minimap
+ALLOW * com.coolapk.market
+ALLOW * com.miui.screenrecorder
+ALLOW * com.netease.cloudmusic
+ALLOW com.netease.cloudmusic com.netease.cloudmusic
+ALLOW com.omarea.vtools
+ALLOW * com.tencent.mm
+ALLOW com.tencent.mm com.tencent.mm
+ALLOW * com.tencent.mobileqq
+ALLOW com.tencent.mobileqq com.tencent.mobileqq
+ALLOW * com.topjohnwu.magisk
+ALLOW * com.xiaomi.mibrain.speech
+ALLOW * in.zhaoj.shadowsocksr
+ALLOW * org.meowcat.edxposed.manager
+DENY * com.xiaomi.aiasst.service
+DENY * com.miui.virtualsim
+DENY * com.miui.cleanmaster
+DENY * com.android.browser
+DENY * com.android.printspooler
